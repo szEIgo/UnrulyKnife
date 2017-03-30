@@ -28,6 +28,7 @@ PERSONER: Number of observations with the given features of the row
 
 Excercises:
 1. Use matplotlib to show the distribution of the following four categories over the time of 1992 - 2015
+
          - Males between age 18 and 30
          - Females between age 18 and 30
          - Males age 50+

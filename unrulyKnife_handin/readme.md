@@ -12,8 +12,8 @@ pip3 install pandas, numpy, bokeh, operator, tqdm, matplotlib
 ## Assignment 4
 ### Create to pie-charts, showing the distribution of marital status' in bydel 1, 2 and 3 in year 2000 and 2015
 
-#### for year 2000 & 2015
- - # 2000
+### for year 2000 & 2015
+ - #### 2000
  - U    584
  - G    469
  - F    438
@@ -21,7 +21,7 @@ pip3 install pandas, numpy, bokeh, operator, tqdm, matplotlib
  - P    212
  - O     95
  - L     50
- - # 2015
+ - ### 2015
  - U    579
  - G    454
  - F    443

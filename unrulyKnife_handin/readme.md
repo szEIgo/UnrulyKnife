@@ -20,6 +20,16 @@ pip3 install pandas, numpy, bokeh, operator, tqdm, matplotlib
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg2_chart2.png)
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg2_chart3.png)
 
+
+# Assignment 3
+## Find the three most populated city parts(BYDEL), in 1992, 2000 and 2015
+
+![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg3_snippet.png)
+## output
+ - Nørrebro
+ - Nørrebro
+ - Nørrebro
+
 # Assignment 4
 ## Create to pie-charts, showing the distribution of marital status' in bydel 1, 2 and 3 in year 2000 and 2015
 

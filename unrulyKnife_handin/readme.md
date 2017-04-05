@@ -7,7 +7,11 @@ pip3 install pandas, numpy, bokeh, operator, tqdm, matplotlib
 
 :~$ python3 unrulyknife.py
 
+# assignment 1
+## Use matplotlib to show the distribution of the following four categories over the time of 1992 - 2015
 
+![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg1_snippet.png)
+![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg1_chart1.png)
 
 # assignment 4
 ## Create to pie-charts, showing the distribution of marital status' in bydel 1, 2 and 3 in year 2000 and 2015

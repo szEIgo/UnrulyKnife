@@ -58,6 +58,14 @@ Name: CIVST, dtype: int64
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_chart2.png)
 
 
+# Assignement 5
+## Make a histogram of the age distribution in all of the municipality of Copenhangen
+
+![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg5_snippet.png)
+#![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg1_chart.png)
+
+
+
 # MAP
 
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/MapOfDoom.png)

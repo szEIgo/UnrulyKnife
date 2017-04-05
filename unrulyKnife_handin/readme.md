@@ -42,7 +42,7 @@ pip3 install pandas, numpy, bokeh, operator, tqdm, matplotlib
  - P    212
  - O     95
  - L     50
-Name: CIVST, dtype: int64
+ 
  - # 2015
  - U    579
  - G    454
@@ -51,7 +51,6 @@ Name: CIVST, dtype: int64
  - P    238
  - O    184
  - L     57
-Name: CIVST, dtype: int64
 
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_snippet1.png)
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_chart1.png)

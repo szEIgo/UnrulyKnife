@@ -31,8 +31,10 @@ Create to pie-charts, showing the distribution of marital status' in bydel 1, 2 
  - L     57
 
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_snippet1.png)
+
 2000
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_chart1.png)
+
 2015
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_chart2.png)
 

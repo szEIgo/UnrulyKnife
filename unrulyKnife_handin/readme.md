@@ -58,5 +58,11 @@ Name: CIVST, dtype: int64
 ![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/opg4_chart2.png)
 
 
+# MAP
+
+![alt tag](https://github.com/szEIgo/UnrulyKnife/blob/master/unrulyKnife_handin/MapOfDoom.png)
+
+
+
 
 

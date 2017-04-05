@@ -24,7 +24,7 @@ pie1_chart = Donut(pie1_data)
 
 df_2015 = df[(df['AAR'] == 2015) & (df['BYDEL'] < 4)]
 df_2015.groupby(['CIVST', 'BYDEL', 'AAR'])['PERSONER'].sum()
-data_2015 = df_2000['CIVST'].value_counts()
+data_2015 = df_2015['CIVST'].value_counts()
 
 x,y = zip(*sorted(data_2015.items(),key=operator.itemgetter(1)))
 pie2_data = pd.Series(y,x)

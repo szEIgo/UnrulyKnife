@@ -13,21 +13,23 @@ df = pd.read_csv('http://data.kk.dk/dataset/9070067f-ab57-41cd-913e-bc37bfaf9acd
 df_2000 = df[(df['AAR'] == 2000) & (df['BYDEL'] < 4)]
 df_2000.groupby(['CIVST', 'BYDEL', 'AAR'])['PERSONER'].sum()
 data_2000 = df_2000['CIVST'].value_counts()
+print(data_2000)
 
 x,y = zip(*sorted(data_2000.items(),key=operator.itemgetter(1)))
 pie1_data = pd.Series(y,x)
 
 pie1_chart = Donut(pie1_data)
-#show(pie1_chart)
+show(pie1_chart)
 
 
 
 df_2015 = df[(df['AAR'] == 2015) & (df['BYDEL'] < 4)]
 df_2015.groupby(['CIVST', 'BYDEL', 'AAR'])['PERSONER'].sum()
 data_2015 = df_2015['CIVST'].value_counts()
+print(data_2015)
 
-x,y = zip(*sorted(data_2015.items(),key=operator.itemgetter(1)))
-pie2_data = pd.Series(y,x)
+x2,y2 = zip(*sorted(data_2015.items(),key=operator.itemgetter(1)))
+pie2_data = pd.Series(y2,x2)
 
 pie2_chart = Donut(pie2_data)
 show(pie2_chart)
